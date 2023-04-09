@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Jean Pieer 👨‍💻
+## Hi there 👋, I'm Jean Pieer 👨‍💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjeanpieer/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pjeanpieer)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511989117223)
 
-### Languages and Tools
+## Languages and Tools
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,11 +21,11 @@
 </div>
 
 
-### Statistics
+## Statistics
 
 ![Jean Pieer's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjeanpieer&show_icons=true&theme=dark)
 
-### Languages
+## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjeanpieer&layout=compact&theme=dark)](https://github.com/pjeanpieer/github-readme-stats)
 
